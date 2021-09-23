@@ -3,11 +3,7 @@
 
 This is a basic Hello Word program. I created this to demonstrate the use of visual studio code, GitHub, and python integrated together.
 
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+# Demonstration
 
 [Software Demo Video](http://youtube.link.goes.here)
 
